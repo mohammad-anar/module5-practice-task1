@@ -154,3 +154,25 @@ body{
     font-weight: 500;
     padding: 16px 0;
 }
+
+/* contact banner section  starts here */
+
+.contact-banner-container{
+    margin: 0 230px;
+    height: 300px;
+    background: url("../images/gradient2.png"), url("../images/watch.png");
+    padding: 60px;
+    border-radius: 10px;
+    margin-bottom: 130px;
+}
+.contact-banner-container h1{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+}
+.contact-banner-btn{
+    background: #fff;
+    color: #F15B22;
+    border-radius: 5px;
+    margin: 24px;
+}
